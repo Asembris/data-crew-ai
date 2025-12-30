@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+crewai
+pandas
+numpy
+matplotlib
+seaborn
+python-multipart
+python-dotenv
+openai==1.83.0
+crewai-tools
+langchain-openai
